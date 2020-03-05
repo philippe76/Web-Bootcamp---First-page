@@ -1,0 +1,149 @@
+
+
+/************ CLASSER PROPRIETES PAR ORDRE ALPHABETIQUE *****************/
+
+body{
+    font-family: 'Merriweather', serif;
+    margin: 0;
+    text-align: center;
+    color: #40514e;;
+}
+
+h1 {
+    color: #66BFBF;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.62rem;
+    margin: 50px auto 0 auto;
+}
+
+h2 {
+    color: #66BFBF;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: normal;
+    font-size: 2.5rem;
+}
+
+h3 {
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+}
+
+a {
+    color: #11999E;
+}
+
+.top-container {
+    background-color: #e4f6f6;
+    padding-top: 100px;
+    position: relative;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 40px
+}
+
+.bottom-cloud {
+    bottom: 300px;
+    left: 250px;
+    position: absolute;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 50px
+}
+#filip, #what {
+    border-radius: 50%;
+}
+
+.skill-row {
+    margin: 180px auto;
+    text-align: left;
+    width: 50%;
+}
+
+.skill-row p {
+    line-height: 2;
+}
+
+.skill-code {
+    float: left;
+    margin-right: 30px;
+    width: 25%;    
+}
+
+.skill-what {
+    float: right;
+    margin-left: 30px;
+    width: 25%;   
+}
+
+.profile p {
+    line-height: 2;
+    width: 50%;
+    margin: auto;
+}
+
+.middle-container {
+    margin: 100px 0;
+}
+
+hr {
+    border: none;
+    border-top: 8px dotted #eaf6f6;
+    margin: 100px auto;
+    width: 6%;
+}
+
+
+.contact-me p {
+    width: 40%;
+    margin: 40px auto 60px;
+}
+
+.contact-me button {
+    background: linear-gradient(#11cdd4, #11999E);
+    border-radius: 8px;
+    border: none;
+    margin: 50px;
+    outline: 0;
+    padding: 8px 0;
+    width: 140px;
+}
+
+.contact-me button:hover {
+    background: linear-gradient(#30e3cb, #2bc4ad);
+}
+
+.contact-me a {
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    text-decoration: none;
+    text-shadow: 0px 0px 2px white;
+    font-size: 17px;
+}
+
+.bottom-container {
+    background-color: #66BFBF;
+    padding: 50px 0 20px;
+}
+
+.bottom-container a {
+    color: #11999E;
+    display: inline-block;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+
+.bottom-container a:hover {
+    color: #eaf6f6;
+}
+
+.bottom-container p {
+    color: #eaf6f6;
+    font-size: 0.75rem;
+    padding: 10px 0;
+}
